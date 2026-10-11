@@ -1,0 +1,6 @@
+{
+  "name": "GreenBuddy AI — Your Offline Nature Companion",
+  "description": "An offline-first nature quest companion for the Hacktoberfest 2026 Touch Grass challenge powered by open-weight Gemma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
